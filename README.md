@@ -75,26 +75,35 @@ Driven by solving real-world problems through clean architecture, I have extensi
   <img src="https://img.shields.io/badge/Vite-B73BFE?style=flat-square&logo=vite&logoColor=FFD62E" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
 </p>
 
 <p align="center">
   <b>Backend & Databases</b><br/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apollo_Server-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white" />
 </p>
 
 <p align="center">
-  <b>DevOps & Others</b><br/>
+  <b>DevOps, Infra & Testing</b><br/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>Advanced Libraries & APIs</b><br/>
+  <code>BullMQ</code> <code>Zod</code> <code>TanStack (Query/Table)</code> <code>Zustand</code> <code>React Hook Form</code> <code>Drizzle ORM</code> <code>ElevenLabs (TTS)</code> <code>Groq SDK (AI)</code> <code>Swagger/OpenAPI</code> <code>JWT</code> <code>Bcrypt</code> <code>PDFKit</code> <code>ExcelJS</code> <code>Venom/Baileys (WA)</code>
 </p>
 
 ---
