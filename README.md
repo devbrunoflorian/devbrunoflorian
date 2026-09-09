@@ -33,23 +33,23 @@ Driven by solving real-world problems through clean architecture, I have extensi
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">Modern Web & Desktop Apps</h3>
-      <p align="center">Build and deliver fast, scalable, and intuitive user experiences using <b>Next.js</b> and <b>React 19</b>. Experience extending solutions beyond the browser with cross-platform desktop applications using <b>Electron</b>.</p>
+    <td width="50%" valign="top">
+      <h3>Modern Web & Desktop Apps</h3>
+      <p>Build and deliver fast, scalable, and intuitive user experiences using <b>Next.js</b> and <b>React 19</b>. Experience extending solutions beyond the browser with cross-platform desktop applications using <b>Electron</b>.</p>
     </td>
-    <td width="50%">
-      <h3 align="center">Backend & Integrations</h3>
-      <p align="center">Design robust microservices using <b>Node.js, Express, GraphQL, and Prisma</b>, focusing on performance. Proven track record integrating WhatsApp APIs, payment gateways, and AI models.</p>
+    <td width="50%" valign="top">
+      <h3>Backend & Integrations</h3>
+      <p>Design robust microservices using <b>Node.js, Express, GraphQL, and Prisma</b>, focusing on performance. Proven track record integrating WhatsApp APIs, payment gateways, and AI models.</p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center">DevOps & Infrastructure</h3>
-      <p align="center">Hands-on experience with <b>Docker</b>, background job processing (<b>Redis/BullMQ</b>), and building efficient pipelines. Comfortable working across the full lifecycle, from dev to prod.</p>
+    <td width="50%" valign="top">
+      <h3>DevOps & Infrastructure</h3>
+      <p>Hands-on experience with <b>Docker</b>, background job processing (<b>Redis/BullMQ</b>), and building efficient pipelines. Comfortable working across the full lifecycle, from dev to prod.</p>
     </td>
-    <td width="50%">
-      <h3 align="center">AI & Automation</h3>
-      <p align="center">Leveraging powerful LLMs (<b>Groq SDK</b>) and TTS (<b>ElevenLabs</b>) combined with custom chatbots for intelligent automated business workflows and data-mining.</p>
+    <td width="50%" valign="top">
+      <h3>AI & Automation</h3>
+      <p>Leveraging powerful LLMs (<b>Groq SDK</b>) and TTS (<b>ElevenLabs</b>) combined with custom chatbots for intelligent automated business workflows and data-mining.</p>
     </td>
   </tr>
 </table>
