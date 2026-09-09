@@ -99,17 +99,8 @@ Driven by solving real-world problems through clean architecture, I have extensi
 
 ---
 
-### 🏆 GitHub Analytics & Trophies
+### 📈 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devbrunoflorian&theme=transparent&no-frame=true&no-bg=true&margin-w=15" />
-</div>
-<br/>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devbrunoflorian&theme=transparent&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=333" width="60%" />
-</div>
-
----
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
 </div>
