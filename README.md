@@ -118,7 +118,7 @@ Driven by solving real-world problems through clean architecture, I have extensi
 
 <p align="center">
   <b>Advanced Architecture, APIs & AI</b><br/>
-  <code>RAG</code> <code>MCP (Model Context Protocol)</code> <code>API Gateway</code> <code>Load Balancing</code> <code>Rate Limiting</code> <code>Microservices</code> <code>REST</code> <code>SOAP</code> <code>BullMQ</code> <code>Zod</code> <code>TanStack</code> <code>ElevenLabs (TTS)</code> <code>Groq SDK (AI)</code> <code>Swagger/OpenAPI</code> <code>JWT</code>
+  <code>RAG</code> <code>MCP (Model Context Protocol)</code> <code>OpenAI API (GPT-4o)</code> <code>Gemini AI</code> <code>OCR/Vision AI</code> <code>LLM Auto-Critique</code> <code>API Gateway</code> <code>Load Balancing</code> <code>Rate Limiting</code> <code>Microservices</code> <code>REST</code> <code>SOAP</code> <code>BullMQ</code> <code>Zod</code> <code>TanStack</code> <code>ElevenLabs (TTS)</code> <code>Groq SDK</code> <code>Anime.js</code> <code>Swagger/OpenAPI</code> <code>JWT</code>
 </p>
 
 ---
